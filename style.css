@@ -2,6 +2,10 @@
     color: white;
 }
 
+#linkedIn {
+    padding-left: 10px;
+}
+
 .sticky-footer {
     width: 100%;
     height: 8%;

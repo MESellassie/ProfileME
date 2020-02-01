@@ -1,3 +1,4 @@
+
 #tagline {
     font-weight: bold;
     font-size: 12px;
@@ -7,7 +8,7 @@
 .nav-link {
     color: white;
     opacity: 1;
-    padding-left: 30px;
+    /* padding-left: 30px; */
 }
 
 .nav-link:hover {
@@ -24,8 +25,7 @@
 }
 
 #socialIcon {
-    color: white;
-    padding-left: 40px;
+    /* padding-left: 85px; */
     opacity: 1
 }
 
@@ -62,6 +62,32 @@
     -webkit-transition: opacity .6s ease-out;
     -o-transition: opacity .6s ease-out;
 }
+
+#icons8Link {
+    color: white;
+}
+
+@media screen and (max-width: 800px) {
+    .bio-image {
+        height: 450px;
+        width: 450px;
+
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .bio-bw-image {
+        height: 450px;
+        width: 450px;
+
+    }
+}
+
+    @media screen and (max-width: 800px) {
+        .lead {
+            font-size: 14px;
+        }
+    }
 
 
 

@@ -6,3 +6,5 @@ This page is the current version of Micah Evans' bio, resume, and coding work. T
 Languages: 
 This page makes use of jQuery, Javascript, HTML, CSS, and the Bootstrap framework
 
+![Bio Page]()
+

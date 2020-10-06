@@ -119,11 +119,11 @@ body {
     }
 }
 
-    @media screen and (max-width: 800px) {
-        .lead {
+@media screen and (max-width: 800px) {
+    .lead {
             font-size: 14px;
-        }
     }
+}
 
 
 
@@ -142,3 +142,4 @@ body {
     clear: both;
     margin-top: 185px;
 }
+\
